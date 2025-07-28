@@ -5,7 +5,7 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 
 ---
 
-## 📌 Objetivos
+##  Objetivos
 
 - Identificar nadadores con más medallas individuales.
 - Analizar evolución de tiempos en pruebas icónicas.
@@ -14,7 +14,7 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 
 ---
 
-## 📁 Estructura
+##  Estructura
 
 | Carpeta         | Contenido                                                                 |
 |----------------|--------------------------------------------------------------------------|
@@ -22,12 +22,6 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 | `analysis/`     | Scripts de análisis con Pandas                                           |
 | `visuals/`      | Gráficos generados (opcional)                                            |
 
----
-
-## 🐍 Tecnologías Usadas
-
-- Python (pandas, numpy, matplotlib)
-- Power BI (para visualizaciones interactivas)
 
 ---
 
@@ -84,7 +78,10 @@ Resultados por año:
 2012 – 47.52s  
 2016 – 47.58s  
 2020 – 47.02s
-📉 Tendencia: Con un modelo de regresión lineal simple, se obtuvo:
+
+Tendencia: Con un modelo de regresión lineal simple, se obtuvo:
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/5675630a-abc9-4af6-ad39-ecedd70ea158" />
+
 
 Pendiente: -0.1440 segundos por año
 
