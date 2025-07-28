@@ -20,17 +20,8 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 |----------------|--------------------------------------------------------------------------|
 | `data/`         | Dataset original sin modificar                                           |
 | `analysis/`     | Scripts de análisis con Pandas                                           |
-| `visuals/`      | Gráficos generados (opcional)                                            |
+| `visuals/`      | Gráficos generados                                            |
 
-
----
-
-## 📊 Visualizaciones Clave
-
-- 🥇 Ranking de nadadores con más medallas individuales
-- 📈 Evolución del tiempo en 100m Libre Masculino
-- 🌍 Distribución de medallas por país
-- 👨‍🦱👩‍🦱 Estilos de natación por género y década
 
 ---
 🔎 Análisis y resultados
@@ -88,3 +79,22 @@ Pendiente: -0.1440 segundos por año
 Intercepto: 336.56
 
 🔁 Interpretación: En promedio, los nadadores han mejorado su tiempo en unos 0.14 segundos por año, lo cual es bastante si se toma en cuenta que las diferencias entre oro y plata suelen ser de centésimas.
+
+
+
+📈 Gráficas interactivas disponibles
+Dentro del archivo interactive_graphs.ipynb puedes encontrar un dashboard para explorar:
+
+Distribución de medallas de oro, plata y bronce.
+
+Filtros por:
+
+-País
+
+-Año
+
+-Género
+
+-Distancia (metros)
+
+-Tipo de nado (stroke)
