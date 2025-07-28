@@ -19,7 +19,6 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 | Carpeta         | Contenido                                                                 |
 |----------------|--------------------------------------------------------------------------|
 | `data/`         | Dataset original sin modificar                                           |
-| `cleaned_data/` | Dataset limpio con tiempos en segundos, columnas estandarizadas         |
 | `analysis/`     | Scripts de análisis con Pandas                                           |
 | `visuals/`      | Gráficos generados (opcional)                                            |
 
