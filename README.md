@@ -1,4 +1,4 @@
-# -Olympic-Swimming-Analysis-1912-2020-
+# Olympic-Swimming-Analysis-1912-2020-
 
 
 Este proyecto explora los resultados de natación en los Juegos Olímpicos desde 1912 hasta 2020, utilizando Python y Power BI para extraer insights relevantes sobre atletas, países y evolución del rendimiento.
