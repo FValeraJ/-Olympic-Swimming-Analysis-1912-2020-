@@ -8,10 +8,8 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 ##  Objetivos
 
 - Identificar nadadores con más medallas individuales.
-- Analizar evolución de tiempos en pruebas icónicas.
+- Analizar evolución de tiempos.
 - Visualizar desempeño por país y estilo de nado.
-- Preparar dataset limpio para Power BI.
-
 ---
 
 ##  Estructura
@@ -30,17 +28,18 @@ Se filtraron las competencias individuales (no relevos) y se contaron las medall
 
 Top 10 atletas individuales más premiados:
 
-Athlete	Total Medals
-Michael Phelps	16
-Katie Ledecky	8
-Krisztina Egerszegi	7
-Ryan Lochte	7
-Kirsty Leigh Coventry	6
-Mark Spitz	6
-Inge De Bruijn	6
-Laszlo Cseh	6
-Susan O'Neill	5
-Janet Evans	5
+| Athlete               | Total Medals |
+|-----------------------|--------------|
+| Michael Phelps        | 16           |
+| Katie Ledecky         | 8            |
+| Krisztina Egerszegi   | 7            |
+| Ryan Lochte           | 7            |
+| Kirsty Leigh Coventry | 6            |
+| Mark Spitz            | 6            |
+| Inge De Bruijn        | 6            |
+| Laszlo Cseh           | 6            |
+| Susan O'Neill         | 5            |
+| Janet Evans           | 5            |
 
 🗒️ Michael Phelps domina absolutamente, duplicando al segundo lugar. La mayoría de estos atletas también tienen medallas en relevos, pero aquí solo se consideraron logros individuales.
 
@@ -49,26 +48,28 @@ Se analizaron los tiempos ganadores (Rank = 1) de la prueba de 100m libre mascul
 
 Resultados por año:
 
-1932 – 58.20s  
-1936 – 57.60s  
-1952 – 57.40s  
-1956 – 55.40s  
-1960 – 55.10s  
-1964 – 53.40s  
-1968 – 52.20s  
-1972 – 51.22s  
-1976 – 49.99s  
-1980 – 50.40s  
-1984 – 49.80s  
-1988 – 48.63s  
-1992 – 49.02s  
-1996 – 48.74s  
-2000 – 48.30s  
-2004 – 48.17s  
-2008 – 47.21s  
-2012 – 47.52s  
-2016 – 47.58s  
-2020 – 47.02s
+| Año  | Tiempo Ganador (s) |
+|-------|-------------------|
+| 1932  | 58.20             |
+| 1936  | 57.60             |
+| 1952  | 57.40             |
+| 1956  | 55.40             |
+| 1960  | 55.10             |
+| 1964  | 53.40             |
+| 1968  | 52.20             |
+| 1972  | 51.22             |
+| 1976  | 49.99             |
+| 1980  | 50.40             |
+| 1984  | 49.80             |
+| 1988  | 48.63             |
+| 1992  | 49.02             |
+| 1996  | 48.74             |
+| 2000  | 48.30             |
+| 2004  | 48.17             |
+| 2008  | 47.21             |
+| 2012  | 47.52             |
+| 2016  | 47.58             |
+| 2020  | 47.02             |
 
 Tendencia: Con un modelo de regresión lineal simple, se obtuvo:
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/5675630a-abc9-4af6-ad39-ecedd70ea158" />
