@@ -100,7 +100,7 @@ Esto se alinea con la teoría de que los nadadores se están acercando al límit
 
 ---
 
-### Comparación de predicciones
+### 3. Comparación de predicciones
 
 | Modelo                | Tiempo estimado en 2024 |
 |----------------------|--------------------------|
@@ -113,7 +113,7 @@ El modelo polinómico sugiere que la mejora ha comenzado a desacelerarse en año
 Esto se debe al hecho de que, como podemos ver en los datos históricos, los tiempos ganadores han alcanzado un punto cercano al límite fisiológico humano. Es decir, aunque en décadas anteriores se lograban reducciones de tiempo más significativas, en los últimos Juegos Olímpicos la mejora ha sido mínima. El modelo polinómico capta esa curvatura, mostrando cómo la tasa de mejora ya no es lineal, sino que se aplana con el tiempo.
 
 ---
-### Diferencias Edicion tras edicion de los juegos olimpicos
+### 4. Diferencias Edicion tras edicion de los juegos olimpicos
  Year  Results  Diferencia (s)
 | Año  | Tiempo (s) | Diferencia (s) |
 | ---- | ---------- | -------------- |
@@ -136,7 +136,7 @@ El gráfico y la tabla reflejan una tendencia de mejora continua pero no constan
 
 
 ---
-### Visualización interactiva
+### 5. Visualización interactiva
 
 Gráficas interactivas disponibles en el archivo `visuals.pbix`, incluyendo:
 
