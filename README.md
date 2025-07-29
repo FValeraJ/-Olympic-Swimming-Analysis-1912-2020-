@@ -92,8 +92,34 @@ La regresión lineal indica una mejora constante. El modelo polinómico sugiere 
 esto se debe al hecho de quede como podemos ver 
 
 ---
+### Diferencias Edicion tras edicion de los juegos olimpicos
+ Year  Results  Diferencia (s)
+0   1932    58.20             NaN
+1   1936    57.60           -0.60
+2   1952    57.40           -0.20
+3   1952    57.40            0.00
+4   1956    55.40           -2.00
+5   1960    55.10           -0.30
+6   1964    53.40           -1.70
+7   1968    52.20           -1.20
+8   1972    51.22           -0.98
+9   1976    49.99           -1.23
+10  1980    50.40            0.41
+11  1984    49.80           -0.60
+12  1988    48.63           -1.17
+13  1992    49.02            0.39
+14  1996    48.74           -0.28
+15  2000    48.30           -0.44
+16  2004    48.17           -0.13
+17  2008    47.21           -0.96
+18  2012    47.52            0.31
+19  2016    47.58            0.06
+20  2020    47.02           -0.56
 
-### Visualización
+<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/b928f9a6-ea9b-4896-9d00-1c3f14b5e6d1" />
+
+---
+### Visualización interactiva
 
 Gráficas interactivas disponibles en el archivo `visuals.pbix`, incluyendo:
 
