@@ -51,19 +51,37 @@ Michael Phelps domina ampliamente, duplicando al segundo lugar. La mayoría de e
 
 Se analizaron los tiempos de los nadadores ganadores (Rank = 1) en los 100m libres masculinos.
 
-**Resumen de tiempos por año (selección):**
+**Resumen de tiempos por año 100 libre:**
 
-| Año  | Tiempo Ganador (s) |
-|------|---------------------|
-| 1932 | 58.20               |
-| 1968 | 52.20               |
-| 1988 | 48.63               |
-| 2008 | 47.21               |
-| 2020 | 47.02               |
+## Tabla de Resultados
 
+| Año | Atleta                          | Resultado      |
+|-----|----------------------------------|----------------|
+| 2020 | Caeleb Dressel                  | 47.02          |
+| 2016 | Kyle Chalmers                   | 47.580         |
+| 2012 | Nathan Adrian                   | 47.520         |
+| 2008 | Alain Bernard                   | 47.210         \|
+| 2004 | Pieter Van Den Hoogenband      | 48.170         |
+| 2000 | Pieter Van Den Hoogenband      | 48.300         |
+| 1996 | Alexander Popov                | 48.740         |
+| 1992 | Alexander Popov                | 49.020         |
+| 1988 | Matthew Biondi                 | 48.630         |
+| 1984 | Ambrose Iv Gaines              | 49.800         |
+| 1980 | Jörg Woithe                    | 50.400         |
+| 1976 | Jim Montgomery                 | 49.990         |
+| 1972 | Mark Spitz                     | 51.220         |
+| 1968 | Michael Vincent Wenden        | 52.200          |
+| 1964 | Donald Arthur Schollander     | 53.400          |
+| 1960 | Lance Melvin Larson           | 55.100          |
+| 1956 | Jon Malcolm Henricks          | 55.400          |
+| 1952 | Clark Currie Scholes          | 57.400          |
+| 1952 | Hiroshi Suzuki                 | 57.400         |
+| 1948 | Taha Yussuf El Gamal          | 1:00.500        |
+| 1936 | Ferenc Csik                    | 57.600         |
+| 1932 | Yasuji Mioyazaki               | 58.200         |
 ---
 
-### Modelos de regresión aplicados
+### Modelos de regresión aplicados para inte
 
 #### Regresión lineal simple
 - Ecuación estimada:  
