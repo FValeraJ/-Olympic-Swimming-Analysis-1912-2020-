@@ -22,8 +22,8 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 
 
 ---
-🔎 Análisis y resultados
-🥇 1. Nadadores con más medallas individuales (sin relevos)
+ Análisis y resultados
+ 1. Nadadores con más medallas individuales (sin relevos)
 Se filtraron las competencias individuales (no relevos) y se contaron las medallas (oro, plata y bronce).
 
 Top 10 atletas individuales más premiados:
@@ -41,9 +41,9 @@ Top 10 atletas individuales más premiados:
 | Susan O'Neill         | 5            |
 | Janet Evans           | 5            |
 
-🗒️ Michael Phelps domina absolutamente, duplicando al segundo lugar. La mayoría de estos atletas también tienen medallas en relevos, pero aquí solo se consideraron logros individuales.
+ Michael Phelps domina absolutamente, duplicando al segundo lugar. La mayoría de estos atletas también tienen medallas en relevos, pero aquí solo se consideraron logros individuales.
 
-⏱️ 2. Evolución del tiempo ganador en 100m libre masculino
+ 2. Evolución del tiempo ganador en 100m libre masculino
 Se analizaron los tiempos ganadores (Rank = 1) de la prueba de 100m libre masculino desde 1932 hasta 2020.
 
 Resultados por año:
@@ -79,11 +79,11 @@ Pendiente: -0.1440 segundos por año
 
 Intercepto: 336.56
 
-🔁 Interpretación: En promedio, los nadadores han mejorado su tiempo en unos 0.14 segundos por año, lo cual es bastante si se toma en cuenta que las diferencias entre oro y plata suelen ser de centésimas.
+ Interpretación: En promedio, los nadadores han mejorado su tiempo en unos 0.14 segundos por año, lo cual es bastante si se toma en cuenta que las diferencias entre oro y plata suelen ser de centésimas.
 
 
 
-📈 Gráficas interactivas disponibles
+ Gráficas interactivas disponibles
 Dentro del archivo interactive_graphs.ipynb puedes encontrar un dashboard para explorar:
 
 Distribución de medallas de oro, plata y bronce.
