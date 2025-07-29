@@ -111,6 +111,7 @@ La regresión lineal indica una mejora constante a lo largo del tiempo.
 El modelo polinómico sugiere que la mejora ha comenzado a desacelerarse en años recientes.
 
 Esto se debe al hecho de que, como podemos ver en los datos históricos, los tiempos ganadores han alcanzado un punto cercano al límite fisiológico humano. Es decir, aunque en décadas anteriores se lograban reducciones de tiempo más significativas, en los últimos Juegos Olímpicos la mejora ha sido mínima. El modelo polinómico capta esa curvatura, mostrando cómo la tasa de mejora ya no es lineal, sino que se aplana con el tiempo.
+
 ---
 ### Diferencias Edicion tras edicion de los juegos olimpicos
  Year  Results  Diferencia (s)
