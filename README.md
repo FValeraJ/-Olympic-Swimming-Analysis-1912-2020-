@@ -60,7 +60,7 @@ Se analizaron los tiempos de los nadadores ganadores (Rank = 1) en los 100m libr
 | 2020 | Caeleb Dressel                  | 47.02          |
 | 2016 | Kyle Chalmers                   | 47.580         |
 | 2012 | Nathan Adrian                   | 47.520         |
-| 2008 | Alain Bernard                   | 47.210         \|
+| 2008 | Alain Bernard                   | 47.210         |
 | 2004 | Pieter Van Den Hoogenband      | 48.170         |
 | 2000 | Pieter Van Den Hoogenband      | 48.300         |
 | 1996 | Alexander Popov                | 48.740         |
@@ -79,21 +79,21 @@ Se analizaron los tiempos de los nadadores ganadores (Rank = 1) en los 100m libr
 | 1948 | Taha Yussuf El Gamal          | 1:00.500        |
 | 1936 | Ferenc Csik                    | 57.600         |
 | 1932 | Yasuji Mioyazaki               | 58.200         |
+
+Podemos observar una mejora sostenida en los tiempos ganadores desde 1932, pasando de más de 58 segundos a apenas 47.02 en 2020. Sin embargo, a partir del año 2000, la reducción en tiempos se vuelve mucho más lenta, lo que refuerza los hallazgos de la regresión polinómica, que sugiere una desaceleración en la mejora.
+
+Esto se alinea con la teoría de que los nadadores se están acercando al límite fisiológico y técnico de rendimiento en esta prueba. A partir de cierto punto, las mejoras dependen más de factores marginales (tecnología, biomecánica, nutrición, estrategia de carrera), en lugar de cambios drásticos en la preparación o técnica básica.
 ---
 
-### Modelos de regresión aplicados para inte
+### Modelos de regresión aplicados para interpretación del rendimiento en 100m Libre Hombres 
 
 #### Regresión lineal simple
-- Ecuación estimada:  
-  Tiempo = -0.1440 × Año + 336.56
 - Pendiente (mejora promedio por año): −0.1440 segundos
 - Predicción para 2024: 45.02 segundos
   <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/62900e79-1db4-4a49-b745-6ccd3bd16bc3" />
 
 
 #### Regresión polinómica (grado 2)
-- Ecuación estimada:  
-  Tiempo = 0.0009167 × Año² - 3.7697 × Año + 3920.92
 - Predicción para 2024: 46.41 segundos
 <img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/3552f9f3-1bca-4c22-82b7-2c93e5192fc3" />
 
@@ -106,9 +106,10 @@ Se analizaron los tiempos de los nadadores ganadores (Rank = 1) en los 100m libr
 | Regresión lineal     | 45.02 segundos           |
 | Regresión polinómica | 46.41 segundos           |
 
-La regresión lineal indica una mejora constante. El modelo polinómico sugiere que la mejora ha comenzado a desacelerarse en años recientes.
-esto se debe al hecho de quede como podemos ver 
+La regresión lineal indica una mejora constante a lo largo del tiempo.
+El modelo polinómico sugiere que la mejora ha comenzado a desacelerarse en años recientes.
 
+Esto se debe al hecho de que, como podemos ver en los datos históricos, los tiempos ganadores han alcanzado un punto cercano al límite fisiológico humano. Es decir, aunque en décadas anteriores se lograban reducciones de tiempo más significativas, en los últimos Juegos Olímpicos la mejora ha sido mínima. El modelo polinómico capta esa curvatura, mostrando cómo la tasa de mejora ya no es lineal, sino que se aplana con el tiempo.
 ---
 ### Diferencias Edicion tras edicion de los juegos olimpicos
  Year  Results  Diferencia (s)
