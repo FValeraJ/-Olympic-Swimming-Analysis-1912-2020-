@@ -108,7 +108,7 @@ esto se debe al hecho de quede como podemos ver
 | 2016 | 47.58      | +0.06          |
 | 2020 | 47.02      | -0.56          |
 
-<img width="640" height="480" alt="Figure_3" src="https://github.com/user-attachments/assets/b928f9a6-ea9b-4896-9d00-1c3f14b5e6d1" />
+<img width="1000" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/f2a8bccd-72d5-40e1-b961-05ba4f749776" />
 
 ---
 ### Visualización interactiva
