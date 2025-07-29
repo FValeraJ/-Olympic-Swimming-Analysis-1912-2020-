@@ -14,11 +14,11 @@ Este proyecto explora los resultados de natación en los Juegos Olímpicos desde
 
 ##  Estructura
 
-| Carpeta         | Contenido                                                                 |
+| Archivo         | Contenido                                                                 |
 |----------------|--------------------------------------------------------------------------|
-| `data/`         | Dataset original sin modificar                                           |
-| `analysis/`     | Scripts de análisis con Pandas                                           |
-| `visuals/`      | Gráficos generados                                            |
+| `data`         | Dataset original sin modificar                                           |
+| `analysis`     | Scripts de análisis con Pandas                                           |
+| `visuals`      | Gráficos generados en Power BI                                           |
 
 
 ---
