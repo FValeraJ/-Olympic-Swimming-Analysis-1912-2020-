@@ -110,6 +110,10 @@ esto se debe al hecho de quede como podemos ver
 
 <img width="1000" height="500" alt="Figure_3" src="https://github.com/user-attachments/assets/f2a8bccd-72d5-40e1-b961-05ba4f749776" />
 
+El gráfico y la tabla reflejan una tendencia de mejora continua pero no constante, con algunos años donde el rendimiento se estabiliza o retrocede ligeramente. Esto es normal en deportes de élite, donde los márgenes de mejora son cada vez menores y dependen de factores múltiples. Los avances tecnológicos, cambios en técnicas de entrenamiento y la aparición de nadadores excepcionales explican las mejoras más pronunciadas en ciertos años.
+
+
+
 ---
 ### Visualización interactiva
 
