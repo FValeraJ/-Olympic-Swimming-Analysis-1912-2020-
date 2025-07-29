@@ -83,6 +83,7 @@ Se analizaron los tiempos de los nadadores ganadores (Rank = 1) en los 100m libr
 Podemos observar una mejora sostenida en los tiempos ganadores desde 1932, pasando de más de 58 segundos a apenas 47.02 en 2020. Sin embargo, a partir del año 2000, la reducción en tiempos se vuelve mucho más lenta, lo que refuerza los hallazgos de la regresión polinómica, que sugiere una desaceleración en la mejora.
 
 Esto se alinea con la teoría de que los nadadores se están acercando al límite fisiológico y técnico de rendimiento en esta prueba. A partir de cierto punto, las mejoras dependen más de factores marginales (tecnología, biomecánica, nutrición, estrategia de carrera), en lugar de cambios drásticos en la preparación o técnica básica.
+
 ---
 
 ### Modelos de regresión aplicados para interpretación del rendimiento en 100m Libre Hombres 
