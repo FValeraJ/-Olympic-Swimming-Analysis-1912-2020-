@@ -150,21 +150,21 @@ Gráficas interactivas disponibles en el archivo `visuals.pbix`, incluyendo:
   - Estilo de nado
 
 ---
-Herramientas utilizadas
+## Herramientas utilizadas
 Python: pandas, matplotlib, seaborn, scikit-learn
 
 Power BI: dashboards dinámicos
 
 Jupyter Notebooks: para prototipos y análisis exploratorio
 
-Dataset
+## Dataset
 Fuente original: Kaggle – Olympic Swimming Results (modificado para limpieza y análisis)
 
 Cobertura: 1912–2020
 
 Variables: atleta, país, estilo, tiempo, posición, género, si es relevo, etc.
 
-Conclusiones
+## Conclusiones
 La mejora histórica en los tiempos es evidente, pero se ha desacelerado en las últimas décadas.
 
 La regresión polinómica ofrece una mejor representación del comportamiento reciente.
