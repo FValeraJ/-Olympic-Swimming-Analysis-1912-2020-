@@ -84,7 +84,7 @@ Intercepto: 336.56
 
 
  Gráficas interactivas disponibles
-Dentro del archivo interactive_graphs.ipynb puedes encontrar un dashboard para explorar:
+Dentro del archivo visuals.pbix puedes encontrar un dashboard para explorar:
 
 Distribución de medallas de oro, plata y bronce.
 
